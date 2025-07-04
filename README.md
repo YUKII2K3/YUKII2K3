@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Yuktheshwar
 
-<!--
-**YUKII2K3/YUKII2K3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Front-End Developer | 🐍 Python Enthusiast | 🛡️ Cybersecurity Learner | 🎨 UI/UX Explorer  
 
-Here are some ideas to get you started:
+I’m passionate about building clean, modern, and responsive web interfaces that create meaningful user experiences. Currently deepening my skills in full-stack development, Python automation, and security practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I Do:
+- 🔧 Build responsive websites with HTML, CSS, JS  
+- ⚙️ Automate tasks and scripts with Python  
+- 🛡️ Explore security tools and ethical hacking basics  
+- 💡 Turn ideas into functional projects  
+- 🎯 Constantly improving design-to-code conversion  
+
+### 🧰 Tech I Use:
+**Languages:** HTML, CSS, JavaScript, Python  
+**Tools:** VS Code, Git & GitHub, Figma, Linux, Bootstrap, Tailwind  
+**Learning:** React, Node.js, MongoDB, Ethical Hacking  
+
+---
+
+📫 Let's connect:  
+📍 Always learning. Always building.  
+💬 DM-friendly. Open to collaborations and side-projects.
